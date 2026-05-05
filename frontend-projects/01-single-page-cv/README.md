@@ -26,3 +26,6 @@ Key requirements for this project:
 
 - [x] A favicon linked in the head section.
 
+
+Live project:
+- [Single-Page CV](https://roadmap.sh/projects/single-page-cv)
