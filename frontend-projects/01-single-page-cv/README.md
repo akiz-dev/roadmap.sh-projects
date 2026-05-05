@@ -2,7 +2,7 @@
 In this project I create a single-page CV (Curriculum Vitae) using only HTML.
 
 ## Visual Wireframe:
-<img src="./images/resume-template.png" width="300">
+<img src="./images/resume-template.png" width="350">
 
 Key requirements for this project:
 
@@ -16,13 +16,13 @@ Key requirements for this project:
 
 ## Submission Checklist:
 
-[x] emantically correct HTML structure.
+- [x] Semantically correct HTML structure.
 
-[x] Single-page layout with sections for education, skills, and career history.
+- [x] Single-page layout with sections for education, skills, and career history.
 
-[x] SEO meta tags in the head section.
+- [x] SEO meta tags in the head section.
 
-[x] OG tags for better social media sharing.
+- [x] OG tags for better social media sharing.
 
-[x] A favicon linked in the head section.
+- [x] A favicon linked in the head section.
 
